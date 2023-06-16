@@ -1,1 +1,2 @@
 # Figma (Component)
+- Prepare component
