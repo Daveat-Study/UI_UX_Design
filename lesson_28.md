@@ -16,3 +16,5 @@
 ## Testing with users unconvers pain and opportunities.
 
 ## Present to clients and stakeholders to get feedback.
+
+## Past artifcats should influence the way you create your wireframe.
